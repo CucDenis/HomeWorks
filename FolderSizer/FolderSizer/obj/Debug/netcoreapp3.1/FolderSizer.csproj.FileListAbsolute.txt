@@ -1,0 +1,11 @@
+C:\Users\Cuc Denis\Desktop\Probleme OOP\FolderSizer\FolderSizer\bin\Debug\netcoreapp3.1\FolderSizer.exe
+C:\Users\Cuc Denis\Desktop\Probleme OOP\FolderSizer\FolderSizer\bin\Debug\netcoreapp3.1\FolderSizer.deps.json
+C:\Users\Cuc Denis\Desktop\Probleme OOP\FolderSizer\FolderSizer\bin\Debug\netcoreapp3.1\FolderSizer.runtimeconfig.json
+C:\Users\Cuc Denis\Desktop\Probleme OOP\FolderSizer\FolderSizer\bin\Debug\netcoreapp3.1\FolderSizer.runtimeconfig.dev.json
+C:\Users\Cuc Denis\Desktop\Probleme OOP\FolderSizer\FolderSizer\bin\Debug\netcoreapp3.1\FolderSizer.dll
+C:\Users\Cuc Denis\Desktop\Probleme OOP\FolderSizer\FolderSizer\bin\Debug\netcoreapp3.1\FolderSizer.pdb
+C:\Users\Cuc Denis\Desktop\Probleme OOP\FolderSizer\FolderSizer\obj\Debug\netcoreapp3.1\FolderSizer.csprojAssemblyReference.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\FolderSizer\FolderSizer\obj\Debug\netcoreapp3.1\FolderSizer.AssemblyInfoInputs.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\FolderSizer\FolderSizer\obj\Debug\netcoreapp3.1\FolderSizer.AssemblyInfo.cs
+C:\Users\Cuc Denis\Desktop\Probleme OOP\FolderSizer\FolderSizer\obj\Debug\netcoreapp3.1\FolderSizer.dll
+C:\Users\Cuc Denis\Desktop\Probleme OOP\FolderSizer\FolderSizer\obj\Debug\netcoreapp3.1\FolderSizer.pdb
