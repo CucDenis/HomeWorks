@@ -1,0 +1,13 @@
+C:\Users\Cuc Denis\Desktop\Probleme OOP\ClasaElevi\ClasaElevi\bin\Debug\netcoreapp3.1\ClasaElevi.exe
+C:\Users\Cuc Denis\Desktop\Probleme OOP\ClasaElevi\ClasaElevi\bin\Debug\netcoreapp3.1\ClasaElevi.deps.json
+C:\Users\Cuc Denis\Desktop\Probleme OOP\ClasaElevi\ClasaElevi\bin\Debug\netcoreapp3.1\ClasaElevi.runtimeconfig.json
+C:\Users\Cuc Denis\Desktop\Probleme OOP\ClasaElevi\ClasaElevi\bin\Debug\netcoreapp3.1\ClasaElevi.runtimeconfig.dev.json
+C:\Users\Cuc Denis\Desktop\Probleme OOP\ClasaElevi\ClasaElevi\bin\Debug\netcoreapp3.1\ClasaElevi.dll
+C:\Users\Cuc Denis\Desktop\Probleme OOP\ClasaElevi\ClasaElevi\bin\Debug\netcoreapp3.1\ClasaElevi.pdb
+C:\Users\Cuc Denis\Desktop\Probleme OOP\ClasaElevi\ClasaElevi\obj\Debug\netcoreapp3.1\ClasaElevi.csprojAssemblyReference.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\ClasaElevi\ClasaElevi\obj\Debug\netcoreapp3.1\ClasaElevi.csproj.CoreCompileInputs.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\ClasaElevi\ClasaElevi\obj\Debug\netcoreapp3.1\ClasaElevi.AssemblyInfoInputs.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\ClasaElevi\ClasaElevi\obj\Debug\netcoreapp3.1\ClasaElevi.AssemblyInfo.cs
+C:\Users\Cuc Denis\Desktop\Probleme OOP\ClasaElevi\ClasaElevi\obj\Debug\netcoreapp3.1\ClasaElevi.dll
+C:\Users\Cuc Denis\Desktop\Probleme OOP\ClasaElevi\ClasaElevi\obj\Debug\netcoreapp3.1\ClasaElevi.pdb
+C:\Users\Cuc Denis\Desktop\Probleme OOP\ClasaElevi\ClasaElevi\obj\Debug\netcoreapp3.1\ClasaElevi.genruntimeconfig.cache
