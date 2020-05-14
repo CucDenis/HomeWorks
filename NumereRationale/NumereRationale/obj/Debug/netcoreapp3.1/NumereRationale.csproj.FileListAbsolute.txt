@@ -1,0 +1,11 @@
+C:\Users\Cuc Denis\Desktop\Probleme OOP\NumereRationale\NumereRationale\bin\Debug\netcoreapp3.1\NumereRationale.exe
+C:\Users\Cuc Denis\Desktop\Probleme OOP\NumereRationale\NumereRationale\bin\Debug\netcoreapp3.1\NumereRationale.deps.json
+C:\Users\Cuc Denis\Desktop\Probleme OOP\NumereRationale\NumereRationale\bin\Debug\netcoreapp3.1\NumereRationale.runtimeconfig.json
+C:\Users\Cuc Denis\Desktop\Probleme OOP\NumereRationale\NumereRationale\bin\Debug\netcoreapp3.1\NumereRationale.runtimeconfig.dev.json
+C:\Users\Cuc Denis\Desktop\Probleme OOP\NumereRationale\NumereRationale\bin\Debug\netcoreapp3.1\NumereRationale.dll
+C:\Users\Cuc Denis\Desktop\Probleme OOP\NumereRationale\NumereRationale\bin\Debug\netcoreapp3.1\NumereRationale.pdb
+C:\Users\Cuc Denis\Desktop\Probleme OOP\NumereRationale\NumereRationale\obj\Debug\netcoreapp3.1\NumereRationale.csprojAssemblyReference.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\NumereRationale\NumereRationale\obj\Debug\netcoreapp3.1\NumereRationale.AssemblyInfoInputs.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\NumereRationale\NumereRationale\obj\Debug\netcoreapp3.1\NumereRationale.AssemblyInfo.cs
+C:\Users\Cuc Denis\Desktop\Probleme OOP\NumereRationale\NumereRationale\obj\Debug\netcoreapp3.1\NumereRationale.dll
+C:\Users\Cuc Denis\Desktop\Probleme OOP\NumereRationale\NumereRationale\obj\Debug\netcoreapp3.1\NumereRationale.pdb
