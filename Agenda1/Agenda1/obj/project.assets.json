@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cuc Denis\\Desktop\\Probleme OOP\\Agenda1\\Agenda1\\Agenda1.csproj",
+      "projectUniqueName": "C:\\Users\\Cuc Denis\\Source\\Repos\\HomeWorks\\Agenda1\\Agenda1\\Agenda1.csproj",
       "projectName": "Agenda1",
-      "projectPath": "C:\\Users\\Cuc Denis\\Desktop\\Probleme OOP\\Agenda1\\Agenda1\\Agenda1.csproj",
+      "projectPath": "C:\\Users\\Cuc Denis\\Source\\Repos\\HomeWorks\\Agenda1\\Agenda1\\Agenda1.csproj",
       "packagesPath": "C:\\Users\\Cuc Denis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cuc Denis\\Desktop\\Probleme OOP\\Agenda1\\Agenda1\\obj\\",
+      "outputPath": "C:\\Users\\Cuc Denis\\Source\\Repos\\HomeWorks\\Agenda1\\Agenda1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
