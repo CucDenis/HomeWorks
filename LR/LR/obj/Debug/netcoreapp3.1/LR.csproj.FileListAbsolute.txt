@@ -1,0 +1,13 @@
+C:\Users\Cuc Denis\Desktop\Probleme OOP\LR\LR\bin\Debug\netcoreapp3.1\LR.exe
+C:\Users\Cuc Denis\Desktop\Probleme OOP\LR\LR\bin\Debug\netcoreapp3.1\LR.deps.json
+C:\Users\Cuc Denis\Desktop\Probleme OOP\LR\LR\bin\Debug\netcoreapp3.1\LR.runtimeconfig.json
+C:\Users\Cuc Denis\Desktop\Probleme OOP\LR\LR\bin\Debug\netcoreapp3.1\LR.runtimeconfig.dev.json
+C:\Users\Cuc Denis\Desktop\Probleme OOP\LR\LR\bin\Debug\netcoreapp3.1\LR.dll
+C:\Users\Cuc Denis\Desktop\Probleme OOP\LR\LR\bin\Debug\netcoreapp3.1\LR.pdb
+C:\Users\Cuc Denis\Desktop\Probleme OOP\LR\LR\obj\Debug\netcoreapp3.1\LR.csprojAssemblyReference.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\LR\LR\obj\Debug\netcoreapp3.1\LR.csproj.CoreCompileInputs.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\LR\LR\obj\Debug\netcoreapp3.1\LR.AssemblyInfoInputs.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\LR\LR\obj\Debug\netcoreapp3.1\LR.AssemblyInfo.cs
+C:\Users\Cuc Denis\Desktop\Probleme OOP\LR\LR\obj\Debug\netcoreapp3.1\LR.dll
+C:\Users\Cuc Denis\Desktop\Probleme OOP\LR\LR\obj\Debug\netcoreapp3.1\LR.pdb
+C:\Users\Cuc Denis\Desktop\Probleme OOP\LR\LR\obj\Debug\netcoreapp3.1\LR.genruntimeconfig.cache

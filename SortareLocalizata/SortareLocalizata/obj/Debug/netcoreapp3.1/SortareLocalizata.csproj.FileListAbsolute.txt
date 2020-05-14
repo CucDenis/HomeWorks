@@ -1,0 +1,13 @@
+C:\Users\Cuc Denis\Desktop\Probleme OOP\SortareLocalizata\SortareLocalizata\bin\Debug\netcoreapp3.1\SortareLocalizata.exe
+C:\Users\Cuc Denis\Desktop\Probleme OOP\SortareLocalizata\SortareLocalizata\bin\Debug\netcoreapp3.1\SortareLocalizata.deps.json
+C:\Users\Cuc Denis\Desktop\Probleme OOP\SortareLocalizata\SortareLocalizata\bin\Debug\netcoreapp3.1\SortareLocalizata.runtimeconfig.json
+C:\Users\Cuc Denis\Desktop\Probleme OOP\SortareLocalizata\SortareLocalizata\bin\Debug\netcoreapp3.1\SortareLocalizata.runtimeconfig.dev.json
+C:\Users\Cuc Denis\Desktop\Probleme OOP\SortareLocalizata\SortareLocalizata\bin\Debug\netcoreapp3.1\SortareLocalizata.dll
+C:\Users\Cuc Denis\Desktop\Probleme OOP\SortareLocalizata\SortareLocalizata\bin\Debug\netcoreapp3.1\SortareLocalizata.pdb
+C:\Users\Cuc Denis\Desktop\Probleme OOP\SortareLocalizata\SortareLocalizata\obj\Debug\netcoreapp3.1\SortareLocalizata.csprojAssemblyReference.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\SortareLocalizata\SortareLocalizata\obj\Debug\netcoreapp3.1\SortareLocalizata.AssemblyInfoInputs.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\SortareLocalizata\SortareLocalizata\obj\Debug\netcoreapp3.1\SortareLocalizata.AssemblyInfo.cs
+C:\Users\Cuc Denis\Desktop\Probleme OOP\SortareLocalizata\SortareLocalizata\obj\Debug\netcoreapp3.1\SortareLocalizata.dll
+C:\Users\Cuc Denis\Desktop\Probleme OOP\SortareLocalizata\SortareLocalizata\obj\Debug\netcoreapp3.1\SortareLocalizata.pdb
+C:\Users\Cuc Denis\Desktop\Probleme OOP\SortareLocalizata\SortareLocalizata\obj\Debug\netcoreapp3.1\SortareLocalizata.csproj.CoreCompileInputs.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\SortareLocalizata\SortareLocalizata\obj\Debug\netcoreapp3.1\SortareLocalizata.genruntimeconfig.cache
