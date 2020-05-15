@@ -1,0 +1,12 @@
+C:\Users\Cuc Denis\Source\Repos\HomeWorks\Agenda1\Agenda1\bin\Debug\netcoreapp3.1\Agenda1.exe
+C:\Users\Cuc Denis\Source\Repos\HomeWorks\Agenda1\Agenda1\bin\Debug\netcoreapp3.1\Agenda1.deps.json
+C:\Users\Cuc Denis\Source\Repos\HomeWorks\Agenda1\Agenda1\bin\Debug\netcoreapp3.1\Agenda1.runtimeconfig.json
+C:\Users\Cuc Denis\Source\Repos\HomeWorks\Agenda1\Agenda1\bin\Debug\netcoreapp3.1\Agenda1.runtimeconfig.dev.json
+C:\Users\Cuc Denis\Source\Repos\HomeWorks\Agenda1\Agenda1\bin\Debug\netcoreapp3.1\Agenda1.dll
+C:\Users\Cuc Denis\Source\Repos\HomeWorks\Agenda1\Agenda1\bin\Debug\netcoreapp3.1\Agenda1.pdb
+C:\Users\Cuc Denis\Source\Repos\HomeWorks\Agenda1\Agenda1\obj\Debug\netcoreapp3.1\Agenda1.csproj.CoreCompileInputs.cache
+C:\Users\Cuc Denis\Source\Repos\HomeWorks\Agenda1\Agenda1\obj\Debug\netcoreapp3.1\Agenda1.AssemblyInfoInputs.cache
+C:\Users\Cuc Denis\Source\Repos\HomeWorks\Agenda1\Agenda1\obj\Debug\netcoreapp3.1\Agenda1.AssemblyInfo.cs
+C:\Users\Cuc Denis\Source\Repos\HomeWorks\Agenda1\Agenda1\obj\Debug\netcoreapp3.1\Agenda1.dll
+C:\Users\Cuc Denis\Source\Repos\HomeWorks\Agenda1\Agenda1\obj\Debug\netcoreapp3.1\Agenda1.pdb
+C:\Users\Cuc Denis\Source\Repos\HomeWorks\Agenda1\Agenda1\obj\Debug\netcoreapp3.1\Agenda1.genruntimeconfig.cache
