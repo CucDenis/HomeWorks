@@ -1,0 +1,13 @@
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Clasa Stiva\Clasa Stiva\bin\Debug\netcoreapp3.1\Clasa Stiva.exe
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Clasa Stiva\Clasa Stiva\bin\Debug\netcoreapp3.1\Clasa Stiva.deps.json
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Clasa Stiva\Clasa Stiva\bin\Debug\netcoreapp3.1\Clasa Stiva.runtimeconfig.json
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Clasa Stiva\Clasa Stiva\bin\Debug\netcoreapp3.1\Clasa Stiva.runtimeconfig.dev.json
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Clasa Stiva\Clasa Stiva\bin\Debug\netcoreapp3.1\Clasa Stiva.dll
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Clasa Stiva\Clasa Stiva\bin\Debug\netcoreapp3.1\Clasa Stiva.pdb
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Clasa Stiva\Clasa Stiva\obj\Debug\netcoreapp3.1\Clasa Stiva.csproj.CoreCompileInputs.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Clasa Stiva\Clasa Stiva\obj\Debug\netcoreapp3.1\Clasa Stiva.AssemblyInfoInputs.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Clasa Stiva\Clasa Stiva\obj\Debug\netcoreapp3.1\Clasa Stiva.AssemblyInfo.cs
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Clasa Stiva\Clasa Stiva\obj\Debug\netcoreapp3.1\Clasa Stiva.dll
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Clasa Stiva\Clasa Stiva\obj\Debug\netcoreapp3.1\Clasa Stiva.pdb
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Clasa Stiva\Clasa Stiva\obj\Debug\netcoreapp3.1\Clasa Stiva.genruntimeconfig.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Clasa Stiva\Clasa Stiva\obj\Debug\netcoreapp3.1\Clasa Stiva.csprojAssemblyReference.cache
