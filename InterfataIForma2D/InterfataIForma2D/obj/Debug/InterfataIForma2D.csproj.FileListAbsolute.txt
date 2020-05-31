@@ -1,0 +1,7 @@
+C:\Users\Cuc Denis\Desktop\Probleme OOP\InterfataIForma2D\InterfataIForma2D\obj\Debug\InterfataIForma2D.csprojAssemblyReference.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\InterfataIForma2D\InterfataIForma2D\obj\Debug\InterfataIForma2D.csproj.CoreCompileInputs.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\InterfataIForma2D\InterfataIForma2D\bin\Debug\InterfataIForma2D.exe.config
+C:\Users\Cuc Denis\Desktop\Probleme OOP\InterfataIForma2D\InterfataIForma2D\bin\Debug\InterfataIForma2D.exe
+C:\Users\Cuc Denis\Desktop\Probleme OOP\InterfataIForma2D\InterfataIForma2D\bin\Debug\InterfataIForma2D.pdb
+C:\Users\Cuc Denis\Desktop\Probleme OOP\InterfataIForma2D\InterfataIForma2D\obj\Debug\InterfataIForma2D.exe
+C:\Users\Cuc Denis\Desktop\Probleme OOP\InterfataIForma2D\InterfataIForma2D\obj\Debug\InterfataIForma2D.pdb
