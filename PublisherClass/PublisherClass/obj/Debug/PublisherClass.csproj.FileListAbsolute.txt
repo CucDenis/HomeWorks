@@ -1,0 +1,7 @@
+C:\Users\Cuc Denis\Desktop\Probleme OOP\PublisherClass\PublisherClass\bin\Debug\PublisherClass.exe.config
+C:\Users\Cuc Denis\Desktop\Probleme OOP\PublisherClass\PublisherClass\bin\Debug\PublisherClass.exe
+C:\Users\Cuc Denis\Desktop\Probleme OOP\PublisherClass\PublisherClass\bin\Debug\PublisherClass.pdb
+C:\Users\Cuc Denis\Desktop\Probleme OOP\PublisherClass\PublisherClass\obj\Debug\PublisherClass.csprojAssemblyReference.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\PublisherClass\PublisherClass\obj\Debug\PublisherClass.csproj.CoreCompileInputs.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\PublisherClass\PublisherClass\obj\Debug\PublisherClass.exe
+C:\Users\Cuc Denis\Desktop\Probleme OOP\PublisherClass\PublisherClass\obj\Debug\PublisherClass.pdb
