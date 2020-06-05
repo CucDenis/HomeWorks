@@ -1,0 +1,13 @@
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Class Names\Class Names\bin\Debug\netcoreapp3.1\Class Names.exe
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Class Names\Class Names\bin\Debug\netcoreapp3.1\Class Names.deps.json
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Class Names\Class Names\bin\Debug\netcoreapp3.1\Class Names.runtimeconfig.json
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Class Names\Class Names\bin\Debug\netcoreapp3.1\Class Names.runtimeconfig.dev.json
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Class Names\Class Names\bin\Debug\netcoreapp3.1\Class Names.dll
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Class Names\Class Names\bin\Debug\netcoreapp3.1\Class Names.pdb
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Class Names\Class Names\obj\Debug\netcoreapp3.1\Class Names.csprojAssemblyReference.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Class Names\Class Names\obj\Debug\netcoreapp3.1\Class Names.csproj.CoreCompileInputs.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Class Names\Class Names\obj\Debug\netcoreapp3.1\Class Names.AssemblyInfoInputs.cache
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Class Names\Class Names\obj\Debug\netcoreapp3.1\Class Names.AssemblyInfo.cs
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Class Names\Class Names\obj\Debug\netcoreapp3.1\Class Names.dll
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Class Names\Class Names\obj\Debug\netcoreapp3.1\Class Names.pdb
+C:\Users\Cuc Denis\Desktop\Probleme OOP\Class Names\Class Names\obj\Debug\netcoreapp3.1\Class Names.genruntimeconfig.cache
